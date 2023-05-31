@@ -54,7 +54,7 @@
   },
   "homepage": "https://github.com/estevam5s/readme-project-generator#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@estevamsl"
+    "registry": "https://npm.pkg.github.com/estevamsl"
   },
   "engines": {
     "npm": ">=5.5.0",
