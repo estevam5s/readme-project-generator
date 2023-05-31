@@ -47,14 +47,14 @@
     "generator",
     "template"
   ],
-  "author": "Franck Abgrall",
+  "author": "Estevam Souza",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/estevam5s/readme-project-generator/issues"
   },
   "homepage": "https://github.com/estevam5s/readme-project-generator#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@estevam5s"
+    "registry": "https://npm.pkg.github.com/@estevamsl"
   },
   "engines": {
     "npm": ">=5.5.0",
